@@ -94,7 +94,7 @@ plt.title("Customer Segment")
 
 ## Output:
 #### 1.DATA.HEAD():
-![image](https://github.com/POZHILANVD/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/144870498/d35b4a6b-9a0b-477d-864d-c7bdb68fa854)
+![image](https://github.com/POZHILANVD/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/144870498/959f8137-6c3e-4e83-a2e4-77d635a98979)
 #### 2.DATA.INF0():
 ![image](https://github.com/POZHILANVD/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/144870498/74112410-0e34-43af-a090-b66b320aed5d)
 #### 3.DATA.ISNULL().SUM():
